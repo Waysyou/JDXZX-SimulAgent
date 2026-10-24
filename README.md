@@ -112,4 +112,4 @@ powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\start.ps1
 
 项目团队：进点双子星队。当前已确认的分工与其余成员署名状态见 [CONTRIBUTORS.md](CONTRIBUTORS.md)。
 
-真正公开前，请完成 [docs/RELEASE_CHECKLIST.md](docs/RELEASE_CHECKLIST.md)。本候选目录没有初始化 Git、创建远程仓库或进行上传。暂不提供官方比赛数据或结果的公开下载链接。
+本候选工程已保存到 [Waysyou/JDXZX-SimulAgent](https://github.com/Waysyou/JDXZX-SimulAgent) 私有仓库，尚未公开发布。真正公开前，请完成 [docs/RELEASE_CHECKLIST.md](docs/RELEASE_CHECKLIST.md) 并确认正式许可证。暂不提供官方比赛数据或结果的公开下载链接。
