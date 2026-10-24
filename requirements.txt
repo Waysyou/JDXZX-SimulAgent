@@ -1,0 +1,15 @@
+# Versions verified against the existing V2 Python 3.13 runtime.
+# Install torch separately using setup_runtime.ps1 or the official PyTorch index.
+gradio==6.20.0
+fastapi==0.139.2
+uvicorn==0.51.0
+python-multipart==0.0.32
+numpy==2.4.6
+scipy==1.18.0
+soundfile==0.14.0
+transformers==5.14.1
+sherpa-onnx==1.13.4
+piper-tts==1.5.0
+opencc-python-reimplemented==0.1.7
+sentencepiece==0.2.2
+safetensors==0.8.0

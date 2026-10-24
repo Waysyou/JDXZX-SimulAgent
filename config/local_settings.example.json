@@ -1,0 +1,6 @@
+{
+  "SHERPA_MODEL_DIR": ".cache/models/sherpa-onnx-streaming-zipformer-zh-int8-2025-06-30",
+  "QWEN_MODEL_DIR": ".cache/models/qwen2.5-1.5b-instruct",
+  "PIPER_VOICE_MODEL": ".cache/models/piper-en_US-lessac-medium/en_US-lessac-medium.onnx",
+  "TRANSLATION_DEVICE": "auto"
+}

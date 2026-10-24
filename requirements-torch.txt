@@ -1,0 +1,2 @@
+# Choose the CPU or CUDA wheel index explicitly when installing.
+torch==2.11.0
