@@ -6,7 +6,7 @@
 
 - [Waysyou](https://github.com/Waysyou)：将团队方案落实为程序，负责整体系统搭建、模块接入与联调。对外署名使用 GitHub 用户名，不使用真实姓名。
 - [wcx-dev-4837](https://github.com/wcx-dev-4837)：团队成员，具体分工待本人补充确认。
-- `rjx6`：队长提供的队员账号，GitHub 主页尚未核验，待确认后补充主页链接和协作者邀请；具体分工待本人补充确认。
+- [rjx66](https://github.com/rjx66)：团队成员，具体分工待本人补充确认。
 
 ## 发布前补充
 
